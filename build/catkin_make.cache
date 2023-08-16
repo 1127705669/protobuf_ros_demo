@@ -1,0 +1,2 @@
+listener:talker
+-DCATKIN_DEVEL_PREFIX=/home/ethan/workset/pftest/devel -DCMAKE_INSTALL_PREFIX=/home/ethan/workset/pftest/install -G Unix Makefiles
